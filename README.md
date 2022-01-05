@@ -1,1 +1,1 @@
-# boostrap-project-crypto
+Une startup nommé 'Crypto974' vous embauche et vous demande de leur créer un site vitrine fait avec bootstrap et qui est responsive à partir du modèle qui se trouve sur le site de bootstrap dans la partie "Example" => album en vous inspirant de la maquette uniquement pour le contenu texte.
